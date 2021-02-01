@@ -1,0 +1,28 @@
+.red {
+    color: red;
+}
+.blue {
+    color: blue;
+}
+.black-border {
+    border: black solid 1px;
+}
+.red-border {
+    border: red solid 1px;
+}
+/*
+.box {
+    background-color: white;
+    border: solid black;
+    width: 200px;
+    height: 200px;
+}
+.target {
+    box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border: dashed black ;
+    padding: 
+}
+*/
